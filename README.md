@@ -19,7 +19,9 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-
+## 🌐 Socials
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/filipkonkel97)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/filip-konkel-757334181/)
 <!--
 **filipkonkel97/filipkonkel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

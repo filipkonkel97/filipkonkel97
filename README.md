@@ -1,5 +1,13 @@
 ## Hi! My name is Filip 👋
 
+### Data Engineer
+I am a Data Engineer developing sophisticated analytical solutions for the logistics sector, with a focus on scalable data pipelines and actionable insights.
+My skills also include a foundational understanding of Data Science and Machine Learning, 
+with a current focus on Agentic AI. 
+I am always eager to learn about new technologies to further develop my expertise.
+
+* 🌍 based in Poland
+
 ## 🏢 Commercial Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)

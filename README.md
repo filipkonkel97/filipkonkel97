@@ -1,7 +1,8 @@
 ## Hi! My name is Filip 👋
 
 ## 🛠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=python,apachespark,azure)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+
 
 <!--
 **filipkonkel97/filipkonkel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

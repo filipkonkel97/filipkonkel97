@@ -1,7 +1,7 @@
 ## Hi! My name is Filip 👋
 
 ## 🛠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=python,postgresql,docker,airflow,aws,linux,git,mlflow)
+![Skills](https://skillicons.dev/icons?i=python,pyspark,azure)
 
 <!--
 **filipkonkel97/filipkonkel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

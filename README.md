@@ -1,7 +1,19 @@
 ## Hi! My name is Filip 👋
 
-## 🛠 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+## 🏢 Commercial Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+## 🧪 Hobbyist Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 
 <!--

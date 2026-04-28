@@ -6,15 +6,15 @@ My skills also include a foundational understanding of Data Science and Machine 
 with a current focus on Agentic AI. 
 I am always eager to learn about new technologies to further develop my expertise.
 
-* 🌍 based in Poland
+*  based in Poland
 
-## 🏢 Commercial Tech Stack
+##  Commercial Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-## 🧪 Hobbyist Tech Stack
+##  Hobbyist Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -27,7 +27,7 @@ I am always eager to learn about new technologies to further develop my expertis
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-## 🌐 Socials
+##  Socials
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/filipkonkel97)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/filip-konkel-757334181/)
 <!--

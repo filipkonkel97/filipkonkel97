@@ -26,6 +26,7 @@ I am always eager to learn about new technologies to further develop my expertis
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE412B?logo=rust&logoColor=white)
 
 ##  Socials
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/filipkonkel97)
